@@ -491,7 +491,7 @@ namespace Microsoft.Data.Sqlite
                         break;
                     }
 
-                    Thread.Sleep(150);
+                    Thread.Sleep(1);
                 }
 
                 timer.Stop();

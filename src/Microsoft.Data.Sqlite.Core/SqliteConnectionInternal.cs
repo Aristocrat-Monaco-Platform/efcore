@@ -212,7 +212,7 @@ namespace Microsoft.Data.Sqlite
 
                 reset();
 
-                Thread.Sleep(150);
+                Thread.Sleep(1);
             }
 
             SqliteException.ThrowExceptionForRC(rc, _db);
