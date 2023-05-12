@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <AssemblyName>Microsoft.EntityFrameworkCore.Sqlite</AssemblyName>
-    <PackageId>Microsoft.EntityFrameworkCore.Sqlite.Core</PackageId>
+    <PackageId>Aristocrat.Microsoft.EntityFrameworkCore.Sqlite.Core</PackageId>
     <RootNamespace>Microsoft.EntityFrameworkCore.Sqlite</RootNamespace>
     <Description>SQLite database provider for Entity Framework Core. This package does not include a copy of the native SQLite library.</Description>
     <TargetFramework>net6.0</TargetFramework>

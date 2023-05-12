@@ -21,6 +21,7 @@ Microsoft.Data.Sqlite.SqliteTransaction</Description>
     <IncludeSymbols>false</IncludeSymbols>
     <DisableImplicitFrameworkReferences>true</DisableImplicitFrameworkReferences>
     <PackageProjectUrl>https://docs.microsoft.com/dotnet/standard/data/sqlite/</PackageProjectUrl>
+    <PackageId>Aristocrat.Microsoft.Data.Sqlite</PackageId>
   </PropertyGroup>
 
   <ItemGroup>

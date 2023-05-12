@@ -8,6 +8,7 @@
     <RootNamespace>Microsoft.EntityFrameworkCore.InMemory</RootNamespace>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <PackageTags>$(PackageTags);In-Memory</PackageTags>
+    <PackageId>Aristocrat.Microsoft.EntityFrameworkCore.InMemory</PackageId>
   </PropertyGroup>
 
   <ItemGroup>

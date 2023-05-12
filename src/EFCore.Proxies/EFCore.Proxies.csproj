@@ -8,6 +8,7 @@
     <RootNamespace>Microsoft.EntityFrameworkCore</RootNamespace>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <PackageTags>$(PackageTags);Lazy loading</PackageTags>
+    <PackageId>Aristocrat.Microsoft.EntityFrameworkCore.Proxies</PackageId>
   </PropertyGroup>
 
   <ItemGroup>

@@ -14,7 +14,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="<#= EFCoreVersion #>" />
+    <PackageReference Include="Aristocrat.Microsoft.EntityFrameworkCore.Design" Version="<#= EFCoreVersion #>" />
   </ItemGroup>
 
   <ItemGroup>

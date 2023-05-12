@@ -2,12 +2,12 @@
 
   <PropertyGroup>
     <AssemblyName>Microsoft.EntityFrameworkCore.Sqlite.NetTopologySuite</AssemblyName>
-    <PackageId>Microsoft.EntityFrameworkCore.Sqlite.NetTopologySuite</PackageId>
     <RootNamespace>Microsoft.EntityFrameworkCore.Sqlite</RootNamespace>
     <Description>NetTopologySuite support for the SQLite database provider for Entity Framework Core.</Description>
     <TargetFramework>net6.0</TargetFramework>
     <MinClientVersion>3.6</MinClientVersion>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <PackageId>Aristocrat.Microsoft.EntityFrameworkCore.Sqlite.NetTopologySuite</PackageId>
     <PackageTags>$(PackageTags);SQLite;GIS;NTS;OGC;SpatiaLite</PackageTags>
   </PropertyGroup>
 

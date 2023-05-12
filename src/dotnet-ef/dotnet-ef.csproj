@@ -19,6 +19,7 @@ dotnet ef database update
     <!-- Because this project uses a custom nuspec, this is necessary to ensure the generated shims are in the publish directory. -->
     <PackagedShimOutputRootDirectory>$(OutDir)</PackagedShimOutputRootDirectory>
     <RootNamespace>Microsoft.EntityFrameworkCore.Tools</RootNamespace>
+    <PackageId>Aristocrat.dotnet-ef</PackageId>
     <IncludeSource>false</IncludeSource>
     <NuspecFile>$(MSBuildProjectName).nuspec</NuspecFile>
     <RollForward>Major</RollForward>

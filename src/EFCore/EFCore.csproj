@@ -12,6 +12,7 @@ Microsoft.EntityFrameworkCore.DbSet
     <AssemblyName>Microsoft.EntityFrameworkCore</AssemblyName>
     <RootNamespace>Microsoft.EntityFrameworkCore</RootNamespace>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <PackageId>Aristocrat.Microsoft.EntityFrameworkCore</PackageId>
   </PropertyGroup>
 
   <ItemGroup>

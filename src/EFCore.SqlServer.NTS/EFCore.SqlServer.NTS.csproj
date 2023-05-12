@@ -5,6 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <MinClientVersion>3.6</MinClientVersion>
     <AssemblyName>Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite</AssemblyName>
+    <PackageId>Aristocrat.Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite</PackageId>
     <RootNamespace>Microsoft.EntityFrameworkCore.SqlServer</RootNamespace>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <PackageTags>$(PackageTags);SQL Server;GIS;NTS;OGC;Spatial</PackageTags>
