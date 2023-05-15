@@ -23,7 +23,7 @@
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
     <LangVersion>10.0</LangVersion>
     <DebugType>portable</DebugType>
-    <PackageProjectUrl>https://docs.microsoft.com/ef/core/</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/Aristocrat-Monaco-Platform/efcore</PackageProjectUrl>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(DeveloperBuild)' == 'true'">

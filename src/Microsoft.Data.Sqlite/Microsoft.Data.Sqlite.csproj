@@ -20,7 +20,7 @@ Microsoft.Data.Sqlite.SqliteTransaction</Description>
     <PackageTags>SQLite;Data;ADO.NET</PackageTags>
     <IncludeSymbols>false</IncludeSymbols>
     <DisableImplicitFrameworkReferences>true</DisableImplicitFrameworkReferences>
-    <PackageProjectUrl>https://docs.microsoft.com/dotnet/standard/data/sqlite/</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/Aristocrat-Monaco-Platform/efcore</PackageProjectUrl>
     <PackageId>Aristocrat.Microsoft.Data.Sqlite</PackageId>
   </PropertyGroup>
 
