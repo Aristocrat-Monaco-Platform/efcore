@@ -39,7 +39,7 @@ Microsoft.Data.Sqlite.SqliteTransaction</Description>
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Aristocrat.SQLitePCLRaw.core" Version="2.1.4" />
+    <PackageReference Include="Aristocrat.SQLitePCLRaw.core" Version="2.1.5" />
   </ItemGroup>
 
   <ItemGroup>

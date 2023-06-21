@@ -16,7 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Aristocrat.SQLitePCLRaw.bundle_e_sqlite3" Version="2.1.4" PrivateAssets="None" />
+    <PackageReference Include="Aristocrat.SQLitePCLRaw.bundle_e_sqlite3" Version="2.1.5" PrivateAssets="None" />
     <PackageReference Include="Microsoft.Win32.Primitives" Version="4.3.0" />
     <PackageReference Include="System.Net.Primitives" Version="4.3.0" />
   </ItemGroup>
